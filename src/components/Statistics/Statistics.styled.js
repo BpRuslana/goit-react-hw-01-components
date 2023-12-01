@@ -25,10 +25,10 @@ export const StyledLi = styled.li`
     justify-content: center;
     align-items: center;
     border-radius: 10px;
-    border: 1px solid yellow;
+    border: 1px solid #96088b;
     padding: 10px;
     width: 120px;
-    background-color: yellowgreen;
+    background-color: #edafe8;
 `;
 export const StyledSpanLabel = styled.span`
       font-size: 20px;
@@ -37,5 +37,5 @@ export const StyledSpanLabel = styled.span`
 export const StyledSpanPercentage = styled.span`
       margin-top: 5px;
     font-size: 25px;
-    color: teal;
+    color: #2d4ced;
 `;

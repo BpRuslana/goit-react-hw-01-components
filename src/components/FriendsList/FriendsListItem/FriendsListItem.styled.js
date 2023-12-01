@@ -4,7 +4,7 @@ export const StyledLi = styled.li`
     width: 120px;
     height: 120px;
     border-radius: 30px;
-    background: #e0e0e0;
+    background: #7CB9E8;
     box-shadow: 10px 10px 20px #bebebe, -10px -10px 20px #ffffff;
     flex-direction: column;
     justify-content: center;

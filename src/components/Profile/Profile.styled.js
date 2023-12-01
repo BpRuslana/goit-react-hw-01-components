@@ -18,7 +18,7 @@ export const StyledImg = styled.img`
   object-fit: cover;
   width: 10rem;
   height: 10rem;
-  border: 4px solid #7cdacc;
+  border: 4px solid #00008B;
   border-radius: 999px;
   display: flex;
   justify-content: center;
