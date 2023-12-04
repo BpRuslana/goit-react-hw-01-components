@@ -20,6 +20,7 @@ export const Statistics = data => {
 };
 
 
+
 Statistics.protoTypes = {
   data: PropTypes.shape({
     title:PropTypes.string,
